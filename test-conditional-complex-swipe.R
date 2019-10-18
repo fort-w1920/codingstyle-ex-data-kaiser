@@ -1,3 +1,4 @@
+library(testthat)
 context("checking swipe")
 
 # get syntax info of swipe function:
